@@ -1,0 +1,2 @@
+include ':telrlibrary_3_5-release'
+include ':app'
